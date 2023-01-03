@@ -14,8 +14,6 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 * 🌍  I'm from Ranchi,Jharkhand (India)
 
-* 🖥️  See my portfolio at [https://sumitkprasad123.github.io/](http://https://sumitkprasad123.github.io/)
-
 * 🌱  I’m currently learning **Node, Express, MongoDB**
 
 * 💬  Ask me about **Javascript, React, Redux, Chakra UI,Next.js**

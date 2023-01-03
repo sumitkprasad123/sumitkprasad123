@@ -66,7 +66,11 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 <h1> 🌐 Connect with me</h1>
 
-<p align="left"> <a href="https://www.github.com/sumitkprasad123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sumit-kumar123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<div display="flex>
+              
+<a href="https://www.linkedin.com/in/sumit-kumar123" target="_blank" rel="noreferrer"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="42" height="32" /></a>
+
+</div>
 
 
 <h1>My GitHub Stats</h1>
@@ -88,4 +92,3 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 
 <div width="100%" align="center"></div>
-

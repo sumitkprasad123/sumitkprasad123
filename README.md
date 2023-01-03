@@ -68,7 +68,7 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 <div display="flex>
            
-<img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="42" height="32" /> [sumitkprasad123@gmail.com](https://www.linkedin.com/in/sumit-kumar123)      
+<img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="42" height="32" /> [(https://www.linkedin.com/in/sumit-kumar12)](https://www.linkedin.com/in/sumit-kumar123)      
 
 </div>
 

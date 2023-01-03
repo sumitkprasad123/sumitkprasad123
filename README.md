@@ -4,14 +4,13 @@ Hi 👋, I'm Sumit Kumar
 
 Full Stack Web Developer
 ------------------------
+I'm a passionate Full Stack Web developer who likes to do experiments and always ready for learning new things and focus on writing clean, elegant and efficient code
 <br/>
 <div>
 <img width="100%" height="350px" alt="gif" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 </div>
 <br/>
 
-
-I'm a passionate Full Stack Web developer who likes to do experiments and always ready for learning new things and focus on writing clean, elegant and efficient code
 
 * 🌍  I'm from Ranchi,Jharkhand (India)
 
@@ -67,12 +66,10 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 <div>
 
 
-### Socials
+<h1> 🌐 Connect with me</h1>
 
 <p align="left"> <a href="https://www.github.com/sumitkprasad123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sumit-kumar123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
-### Badges
 
 <h1>My GitHub Stats</h1>
 

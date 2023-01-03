@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/97/ae/28/97ae288bc10481a0152460e9a3c5faeb.gif](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="pic" />
+<img align="right" width="400" alt="coding" src="https://i.pinimg.com/originals/97/ae/28/97ae288bc10481a0152460e9a3c5faeb.gif](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="pic" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkprasad123&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkprasad123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitkprasad123" alt="sumitkprasad123" /></a> </p>

@@ -18,7 +18,7 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 * 💬  Ask me about **Javascript, React, Redux, Chakra UI,Next.js**
 
-* ✉️  You can contact me at [https://mail.sumitkprasad123@gmail.com/mail/u/0/#inbox](https://mail.sumitkprasad123@gmail.com/mail/u/0/#inbox)
+* ✉️  You can contact me at [sumitkprasad123@gmail.com](https://mail.google.com/mail/u/0/#inbox/sumitkprasad123)
 
 * 👨‍💻  All of my projects are available at [https://sumitkprasad123.github.io/](https://sumitkprasad123.github.io/)
 

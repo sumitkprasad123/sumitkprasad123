@@ -7,7 +7,7 @@ Full Stack Web Developer
 I'm a passionate Full Stack Web developer who likes to do experiments and always ready for learning new things and focus on writing clean, elegant and efficient code
 <br/>
 <div>
-<img width="100%" height="350px" alt="gif" src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif"/>
+<img width="100%" height="350px" alt="gif" src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" />
 </div>
 <br/>
 

@@ -78,7 +78,7 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 <h1>My GitHub Stats</h1>
 
 
-<img alt="gif" align="right" width="49%" height="200px" src="https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/200w.webp?cid=ecf05e47oopnzoi5xmcr5v2hax29abbvd0lyrv84ulsswutn&rid=200w.webp&ct=g" />
+<!-- <img alt="gif" align="right" width="49%" height="200px" src="https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/200w.webp?cid=ecf05e47oopnzoi5xmcr5v2hax29abbvd0lyrv84ulsswutn&rid=200w.webp&ct=g" /> -->
 
   
 <a href="https://github.com/sumitkprasad123" align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkprasad123&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

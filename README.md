@@ -22,7 +22,7 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 * 👨‍💻  All of my projects are available at [https://sumitkprasad123.github.io/](https://sumitkprasad123.github.io/)
 
-* 📄  Know about my experiences [https://drive.google.com/file/d/1Xynschs7URW4GH-h62S83m7D6SCv67FW/view](https://drive.google.com/file/d/1Xynschs7URW4GH-h62S83m7D6SCv67FW/view)
+* 📄  Know about my experiences [https://drive.google.com/file/d/1Xynschs7URW4GH-h62S83m7D6SCv67FW/view](https://drive.google.com/file/d/19S7Wb6mKrpSCDkOGVVaMDNsSJY9VrYwM/view?usp=sharing)
 
 
 <br/>

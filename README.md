@@ -14,9 +14,9 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 * 🌍  I'm from Ranchi,Jharkhand (India)
 
-* 🌱  I’m currently learning **Node, Express, MongoDB**
+* 🌱  I’m currently learning **MERN Stack**
 
-* 💬  Ask me about **Javascript, React, Redux, Chakra UI,Next.js,Node.js,Express.js,MongoDb**
+* 💬  Ask me about **Javascript, React, Redux, Chakra UI,Next.js**
 
 * ✉️  You can contact me at [sumitkprasad123@gmail.com](https://mail.google.com/mail/u/0/#inbox/sumitkprasad123)
 

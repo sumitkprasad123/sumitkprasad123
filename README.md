@@ -16,7 +16,7 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 * 🌱  I’m currently learning **MERN Stack**
 
-* 💬  Ask me about **Javascript, React, Redux, Chakra UI,Next.js**
+* 💬  Ask me about **Javascript, React, Redux, Next.js**
 
 * ✉️  You can contact me at [sumitkprasad123@gmail.com](https://mail.google.com/mail/u/0/#inbox/sumitkprasad123)
 

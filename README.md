@@ -16,9 +16,9 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 * 🌱  I’m currently learning **Node, Express, MongoDB**
 
-* 💬  Ask me about **Javascript, React, Redux, Chakra UI,Next.js**
+* 💬  Ask me about **Javascript, React, Redux, Chakra UI,Next.js,Node.js,Express.js,MongoDb**
 
-* ✉️  You can contact me at [Gmail](https://mail.google.com/mail/u/0/#inbox/sumitkprasad123)
+* ✉️  You can contact me at [sumitkprasad123@gmail.com](https://mail.google.com/mail/u/0/#inbox/sumitkprasad123)
 
 * 👨‍💻  All of my projects are available at [Portfolio](https://sumitkprasad123.github.io/)
 

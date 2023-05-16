@@ -67,7 +67,10 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 
 <h1> 🌐 Connect with me</h1>
-   [<img  height="25px" width="35px"  src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />] (https://www.linkedin.com/in/sumit-kumar123)     
+           
+            [sumitkprasad123@gmail.com](https://mail.google.com/mail/u/0/#inbox/sumitkprasad123)
+           
+   [<img  height="30px" width="35px"  src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />] (https://www.linkedin.com/in/sumit-kumar123)     
 <!--     [<img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" height="30px" width="35px" />](https://mail.google.com/mail/u/0/#inbox/sumitkprasad123)  -->
 
 

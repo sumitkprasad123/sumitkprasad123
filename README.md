@@ -28,7 +28,7 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 
 <br/>
-<h1> 🖥️  Tech Stack</h1>
+<h2> 🖥️  Tech Stack</h2>
 
 <div display="flex" >
 
@@ -66,13 +66,13 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 <div>
 
 
-<h1> 🌐 Connect with me</h1>
+<h2> 🌐 Connect with me</h2>
            
             
    
- <a> [<img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="30px" width="35px" />](https://www.linkedin.com/in/sumit-kumar123)     
+<> [<img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="30px" width="35px" />](https://www.linkedin.com/in/sumit-kumar123)     
     [<img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" height="30px" width="35px" />](https://mail.google.com/mail/u/0/#inbox/sumitkprasad123) 
-           </a>
+           </>
 
 
 <h1>My GitHub Stats</h1>

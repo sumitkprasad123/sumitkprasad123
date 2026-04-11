@@ -14,11 +14,11 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 <br/>
 
 
-* 🌍  I'm from Ranchi,Jharkhand (India)
+* 🌍  I'm from Noida, U.P. (India)
 
-* 🌱  I’m currently learning **MERN Stack**
+* 🌱  I’m currently full stack developer in **MERN Stack**
 
-* 💬  Ask me about **Javascript, React, Redux, Next.js**
+* 💬  Ask me about **Javascript, React, Redux, Next.js, Node, Express**
 
 * ✉️  You can contact me at [sumitkprasad123@gmail.com](https://mail.google.com/mail/u/0/#inbox/sumitkprasad123)
 

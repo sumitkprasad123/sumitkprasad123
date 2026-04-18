@@ -16,7 +16,7 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 * 🌍  I'm from Noida, U.P. (India)
 
-* 🌱  I’m currently full stack developer in **MERN Stack**
+* 🌱  I’m currently full stack developer in **MERN Stack**.
 
 * 💬  Ask me about **Javascript, React, Redux, Next.js, Node, Express**
 

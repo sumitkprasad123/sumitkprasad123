@@ -14,7 +14,7 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 <br/>
 
 
-* 🌍  I'm from Noida, U.P. (India)
+* 🌍  I'm from Ranchi, Jharkhand (India)
 
 * 🌱  I’m currently full stack developer in **MERN Stack**.
 

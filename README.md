@@ -1,5 +1,5 @@
 
-Hi 👋, I'm Sumit Kumar
+Hi 👋, I am Sumit Kumar
 ============================
 
 Full Stack Web Developer

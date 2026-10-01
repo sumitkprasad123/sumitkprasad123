@@ -70,7 +70,7 @@ I am a passionate Full Stack Web developer who likes to do experiments and alway
 <div>
 
 
-<h2> 🌐 Connect with me</h2>
+<h2> 🌐 Connect with me.</h2>
            
             
    
